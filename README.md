@@ -1,2 +1,2 @@
 # PassToken
-PassToken - special device for simplify inputing passwords or other secret information
+PassToken - portable device for password managment.
