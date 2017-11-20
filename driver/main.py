@@ -1,3 +1,4 @@
+#!/usr/bin/python2.7
 import sys
 import serial
 import serial.tools.list_ports
