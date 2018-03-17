@@ -19,3 +19,5 @@ PassToken - портативный менеджер паролей
 ![Скрин](description/2.png)
 ![Добавление нового аккаунта](description/3.png)
 
+#### Видео использования(кликабельно)
+[![Пример использования](description/videoImg.png)](https://www.youtube.com/watch?v=M2E6Aq-Ag7Y)
